@@ -1,0 +1,14 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/bower_components
+/node_modules
+tmp/
+.env
+/build
+/production
+triangular
+.DS_Store
+/data/
+/.dpd/
+*.log

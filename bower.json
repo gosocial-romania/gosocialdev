@@ -1,0 +1,12 @@
+{
+  "name": "gosocialdevcourse",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rgolea/gosocialdev",
+  "authors": [
+    "Rares Golea <rgolea@gmail.com>"
+  ],
+  "description": "AngularJS, Deployd, Underscore course for GoSocialDev",
+  "main": "app.js",
+  "moduleType": [],
+  "license": "MIT"
+}
