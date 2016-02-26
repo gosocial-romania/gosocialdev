@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gosocial-romania/gosocialdev/issues"
   },
-  "homepage": "https://github.com/gosocial-romania/gosocialdev#readme"
+  "homepage": "https://github.com/gosocial-romania/gosocialdev#readme",
+  "dependencies": {
+    "deployd": "^0.8.8"
+  }
 }
