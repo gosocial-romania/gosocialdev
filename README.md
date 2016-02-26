@@ -6,3 +6,4 @@ AngularJS, Deployd, Underscore course
 Test1 from branch feature/test
 and
 Test2 from branch develop
+we did a mistake here
